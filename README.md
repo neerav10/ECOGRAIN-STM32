@@ -1,5 +1,5 @@
 ## ***STM32 F401RE***
-![alt text](F401RE.png)
+![alt text](F401_diagram.png)
 
 
 
@@ -27,15 +27,4 @@ PWM Vib → PB0
 ![alt text](<project demos/WhatsApp Image 2025-11-22 at 01.03.40_b871b40f.jpg>)
 
 
-
-
-
-***Working Video***
-<video controls src="WhatsApp Video 2025-11-22 at 01.03.33_2545a067.mp4" title="Title"></video>
-
-
-
-
-***Fuzzy logic***
-![alt text](FUZZY.png)
 
