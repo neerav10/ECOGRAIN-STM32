@@ -1,5 +1,6 @@
 ## ***STM32 F401RE***
-![alt text](F401_diagram.png)
+<img width="615" height="537" alt="F401_diagram" src="https://github.com/user-attachments/assets/5584332d-656d-48dc-bf55-c100ee41cb86" />
+
 
 
 
