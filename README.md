@@ -29,3 +29,5 @@ PWM Vib → PB0
 
 
 
+***Fuzzy Logic***
+
