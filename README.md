@@ -30,4 +30,5 @@ PWM Vib → PB0
 
 
 ***Fuzzy Logic***
-
+<img width="831" height="808" alt="image" src="https://github.com/user-attachments/assets/6d6a87aa-a86b-4497-aed5-61d98c069b04" />
+                                
